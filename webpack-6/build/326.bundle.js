@@ -1,0 +1,1 @@
+(self.webpackChunkwebpack_6=self.webpackChunkwebpack_6||[]).push([[326],{326:(e,t,c)=>{"use strict";c.r(t),c.d(t,{default:()=>a});var n=document.createElement("button");n.innerHTML="这是个按钮";const a=n}}]);

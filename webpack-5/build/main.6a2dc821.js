@@ -1,0 +1,2 @@
+(()=>{"use strict";var s,e,n;console.log("production"),document.body.appendChild((n=document.createElement("div"),(n=document.createElement("pre")).innerHTML=["Hello webpack!","5 cubed issssssssssssssssdddssssss equal to11112222"+(s=5,e=3,s+e+222)].join("\n\n"),n))})();
+//# sourceMappingURL=main.6a2dc821.js.map
